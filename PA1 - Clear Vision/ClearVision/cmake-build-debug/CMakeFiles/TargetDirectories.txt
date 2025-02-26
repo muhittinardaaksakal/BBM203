@@ -1,0 +1,3 @@
+C:/Users/hypermania/Downloads/PA1_starter_code/cmake-build-debug/CMakeFiles/clearvision.dir
+C:/Users/hypermania/Downloads/PA1_starter_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hypermania/Downloads/PA1_starter_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
