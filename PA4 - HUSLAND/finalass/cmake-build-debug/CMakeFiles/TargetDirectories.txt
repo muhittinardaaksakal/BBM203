@@ -1,0 +1,3 @@
+C:/Users/hypermania/CLionProjects/finalass/cmake-build-debug/CMakeFiles/HUSLAND.dir
+C:/Users/hypermania/CLionProjects/finalass/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hypermania/CLionProjects/finalass/cmake-build-debug/CMakeFiles/rebuild_cache.dir
